@@ -1,0 +1,2 @@
+.App{transition:all .2s}.dark{background-color:#123}.light{background-color:#f0f8ff}.about-text-hover{color:teal;transition:font-size .5s}.about-text-hover:hover{font-size:larger;cursor:pointer}.image-hover{transition:box-shadow .2s}.image-hover:hover{box-shadow:2px 2px grey}.links-responsive{@media (max-width:800px){display:flex;flex-direction:"column"}}
+/*# sourceMappingURL=main.c9ea9b55.chunk.css.map */
