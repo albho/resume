@@ -21,7 +21,7 @@ const About = ({ theme }) => {
         inverted={theme}
         style={{ maxWidth: '888px', margin: '0' }}
       >
-        Former exercise instructor turned software developer.
+        Former exercise instructor turned frontend developer.
         <br />I love solving difficult problems and building useful tools.
       </Header>
       <Header
@@ -32,11 +32,7 @@ const About = ({ theme }) => {
       >
         I am proficient with modern web development languages and libraries such
         as HTML5, CSS3, and JavaScript (ES6). I enjoy working mostly with{' '}
-        <span className="about-text-hover"> React</span>,{' '}
-        <span className="about-text-hover">Node.js</span>
-        {', '}
-        <span className="about-text-hover">Express</span>, and{' '}
-        <span className="about-text-hover">SQL</span> databases.
+        <span className="about-text-hover"> React</span>.
       </Header>
       <Links theme={theme} />
     </div>

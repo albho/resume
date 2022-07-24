@@ -3,20 +3,20 @@ import { Header, Divider, Item } from 'semantic-ui-react';
 const skills = [
   {
     category: 'Languages',
-    stack: 'HTML5, CSS3, JavaScipt, ECMAScript 6 (ES6), EJS, JSX, JSON.',
+    stack: 'HTML5, CSS3, JavaScript (ES6), TypeScript.',
   },
   {
     category: 'Frameworks, Libraries, & Environments',
     stack:
-      'React, Node.js, Express, Ruby, Rails, ActiveRecord, jQuery, BootStrap, SCSS, MUI, AJAX.',
+      'React, Gatsby, Node.js, BootStrap, SCSS.',
   },
   {
     category: 'Databases & Version Control',
-    stack: 'MySQL, PostgreSQL, MongoDB, Git, GitHub.',
+    stack: 'SQL, NoSQL, Git, GitHub, GitLab.',
   },
   {
     category: 'Testing',
-    stack: 'Jest, Storybook, Cypress, Mocha, Chai.',
+    stack: 'Jest, Storybook, Cypress.',
   },
 ];
 

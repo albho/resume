@@ -19,6 +19,13 @@ const institutions = [
     description: `Web development course covering topics such as modern JavaScript, Node.js,
                   Express, MongoDB, HTTP, API testing, authentication, and security.`,
   },
+  {
+    name: 'University of British Columbia',
+    url: 'https://www.ubc.ca/',
+    accreditation: "Bachelor's Degree",
+    date: 'Sept. 2016 - Nov. 2020',
+    description: `Bachelor's in Kinesiology, Faculty of Education`,
+  }
 ];
 
 const breakpointQuery = '(min-width: 480px)';
